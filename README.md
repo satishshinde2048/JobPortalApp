@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+ MinishopApp-Reduxasync 
+Click Here to see my Mini shopping website.
+
+Authors
+@Satish Vilas Shinde
+Tech Stack
+React js( React Router ),
+
+Redux,
+
+TailwindCSS,
+
+React-icons,
+
+Middleware
+
+redux-thunk
+
+Run Locally
+Clone the project:
+
+git clone https://github.com/satishshinde2048/MinishopApp-Reduxasync/.git
+Navigate to the project directory:
+
+cd MinishopApp-Reduxasync
+Install dependencies:
+
+ npm install 
+Start the server:
+
+ npm start       
+Deployment
+This project is live at: https://satishshinde2048.github.io/MinishopApp-Reduxasync/
