@@ -49,5 +49,5 @@
 
 ### `Deployment`
 
-This project is live at: [https://jobportal1045.netlify.app/](https://satishshinde2048.github.io/JobPortal/)
+This project is live at: [https://jobportal1045.netlify.app/](https://jobportal1045.netlify.app/)
 
