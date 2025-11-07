@@ -10,17 +10,21 @@
 
 ### `Tech Stack`
 
-+ React js( React Router ),
++ Routing,
      
 + Redux,       
      
 + TailwindCSS,  
      
-+ React-icons,
++ State Management ,
 
-+ Middleware
++ Custom Hooks,
 
-+ redux-thunk
++ Global User Context,
+
++ Form Validation,
+
++ Conditional Rendering
      
      
 ### `Run Locally`
@@ -32,7 +36,7 @@
 
 + Navigate to the project directory:
 
-      cd MinishopApp-Reduxasync
+      cd demoapp
                                                                                                        
 + Install dependencies:                                                                                                    
 
@@ -40,7 +44,7 @@
                                                                                                                                                                                                                 
 + Start the server:                                                                                                        
 
-       npm start       
+       npm run start       
       
 
 ### `Deployment`
