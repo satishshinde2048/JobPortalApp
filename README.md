@@ -31,7 +31,7 @@
 
 + Clone the project:
 
-      git clone https://github.com/satishshinde2048/MinishopApp-Reduxasync/.git
+      git clone https://github.com/satishshinde2048/JobPortalApp.git
 
 
 + Navigate to the project directory:
