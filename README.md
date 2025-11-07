@@ -1,6 +1,6 @@
 # `  Job Portal App  `
 
-  [Click Here](https://satishshinde2048.github.io/MinishopApp-Reduxasync/) to see my Mini shopping website.
+  [Click Here](https://jobportal1045.netlify.app/) to see my Mini shopping website.
 
 
 ### `Authors`
@@ -49,5 +49,5 @@
 
 ### `Deployment`
 
-This project is live at: [https://satishshinde2048.github.io/MinishopApp-Reduxasync/](https://satishshinde2048.github.io/MinishopApp-Reduxasync/)
+This project is live at: [https://jobportal1045.netlify.app/](https://satishshinde2048.github.io/JobPortal/)
 
